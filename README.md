@@ -20,8 +20,7 @@ This repository contains the description and drive link to download the full pro
 -Move to the  target folder, then type npm run dev (this is to  view output
 -After that it will sow some link like "http://localhost:3000".
 
-## Screenshots / Demo
-![Images](https://drive.google.com/drive/folders/1DROVfxc1bxL_Fol0vhdCG-MYIgMDTMCS?usp=sharing)
+## Demo
 [🎬 Watch Demo Video-Output](https://drive.google.com/file/d/1-Zyui1qfqRjoPwPZ0yRZF7keGyJx7ofE/view?usp=sharing)
 
 ##Developed by 
